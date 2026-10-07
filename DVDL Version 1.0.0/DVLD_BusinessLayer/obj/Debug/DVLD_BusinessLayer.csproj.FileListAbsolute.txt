@@ -1,0 +1,9 @@
+C:\Users\Mega Store\source\repos\DVLD_BusinessLayer\obj\Debug\DVLD_BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Mega Store\source\repos\DVLD_BusinessLayer\obj\Debug\DVLD_BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Mega Store\source\repos\DVLD_BusinessLayer\bin\Debug\DVLD_BusinessLayer.dll
+C:\Users\Mega Store\source\repos\DVLD_BusinessLayer\bin\Debug\DVLD_BusinessLayer.pdb
+C:\Users\Mega Store\source\repos\DVLD_BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Mega Store\source\repos\DVLD_BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Mega Store\source\repos\DVLD_BusinessLayer\obj\Debug\DVLD_Bus.693E2707.Up2Date
+C:\Users\Mega Store\source\repos\DVLD_BusinessLayer\obj\Debug\DVLD_BusinessLayer.dll
+C:\Users\Mega Store\source\repos\DVLD_BusinessLayer\obj\Debug\DVLD_BusinessLayer.pdb
